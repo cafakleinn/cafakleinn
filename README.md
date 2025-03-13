@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# `Hello, World!` I'm Klein Cafa 👋
+# Hello, I'm Klein! 👋
+<!--
 ### Ontario Tech University | Writing code that lasts—efficient, ethical, and impactful
-![](https://komarev.com/ghpvc/?username=cafakleinn&color=blue)
+-->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=4DACF7&width=435&lines=Hello%2C+world!;Motivated+Computer+Science+student;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+
+<!--
+![](https://komarev.com/ghpvc/?username=cafakleinn&color=blue)
+-->
 Coming soon...
