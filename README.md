@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 I am a Second Year Computer Science student at Ontario Tech University, motivated with passion for bringing ideas to life through code. Coding since 2020, I continue to develop and design software that is sustainable, efficient, ethical and impactful for everyone. My mission is to make applications accessible and responsive to everyone with the help of AI to enhance my possibilities and explore creative processes while emphasizing ethics and interactivity. 
 
 ## In-The-Works
-* 🌱 [SUSTAIN](https://github.com/cafakleinn/SUSTAIN): **SUSTAIN** is an environmentally friendly, token-optimized AI wrapper developed from myself and my team since the Ontario Tech University's Hackathon, HackHive 2025, aiming to cut computing costs and boost productivity. By filtering out irrelevant words and phrases from prompts, SUSTAIN reduces token usage, saving energy and enhancing performance. Our goal was to offer a sustainable, high-efficiency alternative to major large language models (LLMs) while delivering powerful AI-driven results. Furthermore, I am working on the iOS application of our AI wrapper to allow accessibility from the touch of your fingers.
+* 🌱 [SUSTAIN](https://github.com/cafakleinn/SUSTAIN): **SUSTAIN** is an environmentally friendly, token-optimized AI wrapper developed from myself and my team since the Ontario Tech University's Hackathon, HackHive 2025, aiming to cut computing costs and boost productivity. By filtering out irrelevant words and phrases from prompts, SUSTAIN reduces token usage, saving energy and enhancing performance. Our goal was to offer a sustainable, high-efficiency alternative to major large language models (LLMs) while delivering powerful AI-driven results. Furthermore, I am working on the [SUSTAIN iOS application](https://github.com/cafakleinn/SUSTAINForiOS) of our AI wrapper to allow accessibility from the touch of your fingers.
+* ⏰ [PomoNest](https://github.com/cafakleinn/PomoNest): **PomoNest** is a native iOS productivity app designed to help students manage their academic life with ease. The app features an intuitive tab-based interface with tools for tracking semesters, calculating GPAs, organizing assignments, managing to-do lists, visualizing deadlines in a calendar, and staying focused using a built-in Pomodoro timer using SwiftUI, SwiftData, and MVVM architecture. PomoNest combines productivity and academic planning into one cohesive experience.
+
+
 
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=apple,cpp,eclipse,git,github,idea,java,latex,matlab,pycharm,py,vscode)](https://skillicons.dev)
@@ -40,7 +43,7 @@ I am a Second Year Computer Science student at Ontario Tech University, motivate
 
 ## Creative Core
 * **Music Enthusiast:** Ever since a young age, music has been a part of my life. From singing songs everywhere I go, to playing instruments all throughout elementary & high school, music will always be a part of me. You may see me singing on social media somewhere...
-* **Video Editor:** YouTube inspired me to show off my creative side with vlogging my life and editing it in a way of telling a story. Check it out here!
+* **Video Editor:** YouTube inspired me to show off my creative side with vlogging my life and editing it in a way of telling a story. [Check it out](https://www.youtube.com/@kleincafa)!
 
 <!--
 ## Personal Insights
