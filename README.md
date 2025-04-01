@@ -62,4 +62,4 @@ I am a Second Year Computer Science student at Ontario Tech University, motivate
 
 ## Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1gblxQgx755WE3GQ38mEMJZpT4kf-FoZh/view?usp=sharing" download>Download my resume!</a>
+> <a href="https://drive.google.com/file/d/119Zo8vJAXWxclFTxqFirXUlpsvCJImPz/view?usp=sharing">Download my resume!</a>
