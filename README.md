@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am a Second Year Computer Science student at Ontario Tech University, motivated with passion for bringing ideas to life through code. Coding since 2020, I continue to develop and design software that is sustainable, efficient, ethical and impactful for everyone. My mission is to make applications accessible and responsive to everyone with the help of AI to enhance my possibilities and explore creative processes while emphasizing ethics and interactivity. 
+I am a Third Year Computer Science student at Ontario Tech University, motivated with passion for bringing ideas to life through code. Coding since 2020, I continue to develop and design software that is sustainable, efficient, ethical and impactful for everyone. My mission is to make applications accessible and responsive to everyone with the help of AI to enhance my possibilities and explore creative processes while emphasizing ethics and interactivity. 
 
 ## In-The-Works
 * 🌱 [SUSTAIN](https://github.com/cafakleinn/SUSTAIN): **SUSTAIN** is an environmentally friendly, token-optimized AI wrapper developed from myself and my team since the Ontario Tech University's Hackathon, HackHive 2025, aiming to cut computing costs and boost productivity. By filtering out irrelevant words and phrases from prompts, SUSTAIN reduces token usage, saving energy and enhancing performance. Our goal was to offer a sustainable, high-efficiency alternative to major large language models (LLMs) while delivering powerful AI-driven results. Furthermore, I am working on the [SUSTAIN iOS application](https://github.com/cafakleinn/SUSTAINForiOS) of our AI wrapper to allow accessibility from the touch of your fingers.
